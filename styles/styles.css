@@ -1,0 +1,50 @@
+/*
+style de la navbar
+*/
+.navbar{
+    background-color: #034982  !important;
+}
+.logo{
+    height: auto;
+    width: 4em;
+}
+body{
+    background-color: #E6F4EA;
+}
+
+.plus{
+    font-size: 28px !important;
+    color: red;
+    font-weight: 900;
+}
+
+/*contenu */
+.contenu{
+    margin-top: 5em !important;
+}
+
+
+/*style home page*/
+
+#sidebare{
+    border-radius: 5%;
+    background-color:  #034982  !important    ;
+    color: beige;
+}
+/*style de la page db insert */
+.styledbinsert {
+    margin-top: 10%;
+    text-align: center ;
+
+}
+h1{
+    color: #45829c;
+    margin-left: auto;
+    border-radius: 5%;
+    width: auto;
+}
+
+
+  
+  
+

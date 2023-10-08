@@ -1,0 +1,22 @@
+/*
+style de la navbar
+*/
+.navbar{
+    background-color: #034982  !important;
+}
+.logo{
+    height: auto;
+    width: 4em;
+}
+body{
+    background-color: #E6F4EA;
+}
+.container{
+text-align: center;
+margin-top: 25%;
+border-radius:20%;
+color: blanchedalmond;
+background-color: #00080e;
+width: 60% !important;
+height: 60%;
+}
